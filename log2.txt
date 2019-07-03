@@ -1,0 +1,159 @@
+-----第1轮train集合-----
+out_label:11QQ, real_label:PpuQ
+epoch_loss:0.0127, epoch_acc:0.2633
+-----第1轮val集合-----
+out_label:2294, real_label:a294
+epoch_loss:0.0108, epoch_acc:0.3702
+第1轮权重已保存
+***************
+-----第2轮train集合-----
+out_label:11I2, real_label:21I2
+epoch_loss:0.0090, epoch_acc:0.4809
+-----第2轮val集合-----
+out_label:11uQ, real_label:pYuQ
+epoch_loss:0.0075, epoch_acc:0.5659
+第2轮权重已保存
+***************
+-----第3轮train集合-----
+out_label:77k4, real_label:j7k4
+epoch_loss:0.0062, epoch_acc:0.6503
+-----第3轮val集合-----
+out_label:ee3I, real_label:Ne3I
+epoch_loss:0.0046, epoch_acc:0.7370
+第3轮权重已保存
+***************
+-----第4轮train集合-----
+out_label:66fc, real_label:76fc
+epoch_loss:0.0045, epoch_acc:0.7391
+-----第4轮val集合-----
+out_label:1pz1, real_label:hOz1
+epoch_loss:0.0048, epoch_acc:0.7252
+第4轮权重已保存
+***************
+-----第5轮train集合-----
+out_label:0QvI, real_label:rQvI
+epoch_loss:0.0044, epoch_acc:0.7449
+-----第5轮val集合-----
+out_label:88Uk, real_label:q8Uk
+epoch_loss:0.0042, epoch_acc:0.7518
+第5轮权重已保存
+***************
+-----第6轮train集合-----
+out_label:7F0L, real_label:UF0L
+epoch_loss:0.0043, epoch_acc:0.7581
+-----第6轮val集合-----
+out_label:2tyw, real_label:Mtyw
+epoch_loss:0.0038, epoch_acc:0.7978
+第6轮权重已保存
+***************
+-----第7轮train集合-----
+out_label:TiN0, real_label:TiN0
+epoch_loss:0.0026, epoch_acc:0.8766
+-----第7轮val集合-----
+out_label:Zw4X, real_label:Zw4X
+epoch_loss:0.0006, epoch_acc:0.9803
+第7轮权重已保存
+***************
+-----第8轮train集合-----
+out_label:GYMK, real_label:GYMK
+epoch_loss:0.0006, epoch_acc:0.9805
+-----第8轮val集合-----
+out_label:5SNR, real_label:5SXR
+epoch_loss:0.0058, epoch_acc:0.7658
+第8轮权重已保存
+***************
+-----第9轮train集合-----
+out_label:F1Z8, real_label:F1Z8
+epoch_loss:0.0005, epoch_acc:0.9823
+-----第9轮val集合-----
+out_label:v39g, real_label:v39g
+epoch_loss:0.0003, epoch_acc:0.9882
+第9轮权重已保存
+***************
+-----第10轮train集合-----
+out_label:134H, real_label:134H
+epoch_loss:0.0005, epoch_acc:0.9822
+-----第10轮val集合-----
+out_label:aW7a, real_label:aW7a
+epoch_loss:0.0003, epoch_acc:0.9878
+***************
+-----第11轮train集合-----
+out_label:Jhu0, real_label:Jhu0
+epoch_loss:0.0005, epoch_acc:0.9830
+-----第11轮val集合-----
+out_label:s9tb, real_label:s9tb
+epoch_loss:0.0003, epoch_acc:0.9899
+第11轮权重已保存
+***************
+-----第12轮train集合-----
+out_label:0Ljz, real_label:0Ljz
+epoch_loss:0.0005, epoch_acc:0.9830
+-----第12轮val集合-----
+out_label:K6EG, real_label:K6EG
+epoch_loss:0.0003, epoch_acc:0.9892
+***************
+-----第13轮train集合-----
+out_label:YSHh, real_label:YSHb
+epoch_loss:0.0005, epoch_acc:0.9838
+-----第13轮val集合-----
+out_label:V5l9, real_label:V5l9
+epoch_loss:0.0003, epoch_acc:0.9890
+***************
+-----第14轮train集合-----
+out_label:lG9u, real_label:lG9u
+epoch_loss:0.0005, epoch_acc:0.9838
+-----第14轮val集合-----
+out_label:d7xk, real_label:d7xk
+epoch_loss:0.0002, epoch_acc:0.9919
+第14轮权重已保存
+***************
+-----第15轮train集合-----
+out_label:knQ2, real_label:knQ2
+epoch_loss:0.0005, epoch_acc:0.9842
+-----第15轮val集合-----
+out_label:E0mZ, real_label:E0mZ
+epoch_loss:0.0002, epoch_acc:0.9915
+***************
+-----第16轮train集合-----
+out_label:OS10, real_label:OS10
+epoch_loss:0.0005, epoch_acc:0.9844
+-----第16轮val集合-----
+out_label:wl1O, real_label:wl1O
+epoch_loss:0.0003, epoch_acc:0.9899
+***************
+-----第17轮train集合-----
+out_label:uq7N, real_label:uq7N
+epoch_loss:0.0005, epoch_acc:0.9844
+-----第17轮val集合-----
+out_label:4P86, real_label:4P86
+epoch_loss:0.0002, epoch_acc:0.9912
+***************
+-----第18轮train集合-----
+out_label:h66I, real_label:h66I
+epoch_loss:0.0005, epoch_acc:0.9845
+-----第18轮val集合-----
+out_label:aSnP, real_label:aSnP
+epoch_loss:0.0002, epoch_acc:0.9925
+第18轮权重已保存
+***************
+-----第19轮train集合-----
+out_label:4iRI, real_label:4iRI
+epoch_loss:0.0005, epoch_acc:0.9845
+-----第19轮val集合-----
+out_label:5o57, real_label:5o57
+epoch_loss:0.0002, epoch_acc:0.9919
+***************
+-----第20轮train集合-----
+out_label:jI7R, real_label:jI7R
+epoch_loss:0.0005, epoch_acc:0.9848
+-----第20轮val集合-----
+out_label:Sosa, real_label:Sosa
+epoch_loss:0.0002, epoch_acc:0.9911
+***************
+-----第21轮train集合-----
+out_label:2b2F, real_label:2b2F
+epoch_loss:0.0005, epoch_acc:0.9849
+-----第21轮val集合-----
+out_label:w6z2, real_label:w6z2
+epoch_loss:0.0002, epoch_acc:0.9920
+***************
